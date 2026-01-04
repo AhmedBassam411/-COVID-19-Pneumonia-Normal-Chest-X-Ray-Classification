@@ -102,3 +102,53 @@ Features:
 ├── app.py
 ├── cnn_training.py
 └── README.md
+
+
+🧪 Training Details
+
+Image Size: 224 × 224
+
+Optimizer: Adam
+
+Loss: Categorical Cross-Entropy
+
+Batch Size: 32
+
+Callbacks:
+
+ModelCheckpoint
+
+ReduceLROnPlateau
+
+EarlyStopping
+
+Class imbalance handled via data-aware training
+
+🧾 Technologies Used
+
+Python
+
+TensorFlow / Keras
+
+NumPy
+
+Pillow (PIL)
+
+Flask
+
+Matplotlib
+
+Grad-CAM (XAI)
+
+
+🚀 Future Improvements
+
+ROC-AUC per class
+
+Multi-label classification
+
+Docker deployment
+
+REST API
+
+Medical report generation
