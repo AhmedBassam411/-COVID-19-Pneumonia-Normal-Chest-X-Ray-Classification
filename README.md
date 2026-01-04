@@ -4,11 +4,11 @@ Explainable AI with CNN + Grad-CAM (Flask Deployment)
 
 This project is an end-to-end medical imaging AI system that classifies chest X-ray images into:
 
- COVID-19
+1- COVID-19
 
- Pneumonia
+2- Pneumonia
 
- Normal
+3- Normal
 
 Dataset link: https://www.kaggle.com/datasets/alsaniipe/chest-x-ray-image
 
