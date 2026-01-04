@@ -10,6 +10,8 @@ This project is an end-to-end medical imaging AI system that classifies chest X-
 
 🩺 Normal
 
+Dataset link: https://www.kaggle.com/datasets/alsaniipe/chest-x-ray-image
+
 The system uses a custom-trained Convolutional Neural Network (CNN) and provides explainable predictions using Grad-CAM heatmaps, deployed via a Flask web application.
 
 The focus is on:
