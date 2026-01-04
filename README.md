@@ -25,6 +25,7 @@ The focus is on:
 After experimentation, custom CNN outperformed transfer learning models (e.g., EfficientNet) on this dataset:
 
 Model    -        	Accuracy	  -    Stability     -   	    GPU Load
+
 Transfer Learning-	 ❌ Unstable	-  ❌ Class collapse	  -  🔥 High
 
 Custom CNN	   -    ✅ 82.45%	  -  ✅ Stable	        -  🟢 Low
