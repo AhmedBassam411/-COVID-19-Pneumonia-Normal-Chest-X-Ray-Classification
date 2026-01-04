@@ -152,3 +152,8 @@ Docker deployment
 REST API
 
 Medical report generation
+
+
+⚠️ Disclaimer
+
+This project is for research and educational purposes only and must not be used for clinical diagnosis.
